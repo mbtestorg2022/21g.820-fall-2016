@@ -6,7 +6,103 @@ title: Exercise 3
 uid: 43f85d39-01d5-cfb0-f74b-f655f66461fc
 ---
 
-| Asa Branca (1947)  {{< br >}}Luiz Gonzaga e Humberto Teixeira  {{< br >}}Watch on [YouTube](https://www.youtube.com/watch?v=cWiJL0_yj9c ).    {{< br >}}{{< br >}} Quando oiei a terra ardendo  {{< br >}}Qual fogueira de São João  {{< br >}}Eu preguntei a Deus do céu, ai  {{< br >}}Por que tamanha judiação  {{< br >}}Eu preguntei a Deus do céu, ai  {{< br >}}Por que tamanha judiação {{< br >}}{{< br >}} Que braseiro, que fornaia  {{< br >}}Nem um pé de prantação  {{< br >}}Por farta d'água perdi meu gado  {{< br >}}Morreu de sede meu alazão {{< br >}}{{< br >}} Por farta d'água perdi meu gado  {{< br >}}Morreu de sede meu alazão {{< br >}}{{< br >}} Inté mesmo a asa branca  {{< br >}}Bateu asas do sertão  {{< br >}}Intonce eu disse, adeus Rosinha  {{< br >}}Guarda contigo meu coração  {{< br >}}Intonce eu disse, adeus Rosinha  {{< br >}}Guarda contigo meu coração {{< br >}}{{< br >}} Hoje longe, muitas légua  {{< br >}}Numa triste solidão  {{< br >}}Espero a chuva cair de novo  {{< br >}}Pra mim vortar pro meu sertão  {{< br >}}Espero a chuva cair de novo  {{< br >}}Pra mim voltar pro meu sertão {{< br >}}{{< br >}} Quando o verde dos teus óio  {{< br >}}Se espaiar na prantação  {{< br >}}Eu te asseguro não chore não, viu  {{< br >}}Que eu vortarei, viu  {{< br >}}Meu coração  {{< br >}}Eu te asseguro não chore não, viu  {{< br >}}Que eu vortarei, viu  {{< br >}}Meu coração {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} A Volta da Asa Branca (1950)  {{< br >}}Luiz Gonzaga e Zé Dantas  {{< br >}}Watch on [YouTube](https://www.youtube.com/watch?v=whKGCQiD7iY). {{< br >}}{{< br >}} Já faz três noites  {{< br >}}Que pro norte relampeia  {{< br >}}A asa branca  {{< br >}}Ouvindo o ronco do trovão  {{< br >}}Já bateu asas  {{< br >}}E vortou pro meu sertão  {{< br >}}Ai, ai eu vou me embora  {{< br >}}Vou cuidar da prantação {{< br >}}{{< br >}} A seca fez eu desertar da minha terra  {{< br >}}Mas felizmente Deus agora se alembrou  {{< br >}}De mandar chuva  {{< br >}}Pr'esse sertão sofredor  {{< br >}}Sertão das muié séria  {{< br >}}Dos homes trabaiador {{< br >}}{{< br >}} Rios correndo  {{< br >}}As cachoeira tão zoando  {{< br >}}Terra moiada  {{< br >}}Mato verde, que riqueza  {{< br >}}E a asa branca  {{< br >}}Tarde canta, que beleza  {{< br >}}Ai, ai, o povo alegre  {{< br >}}Mais alegre a natureza {{< br >}}{{< br >}} Sentindo a chuva  {{< br >}}Eu me arrescordo de Rosinha  {{< br >}}A linda flor  {{< br >}}Do meu sertão pernambucano  {{< br >}}E se a safra  {{< br >}}Não atrapaiá meus pranos  {{< br >}}Que que há, o seu vigário  {{< br >}}Vou casar no fim do ano. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Asa Branca (1947)  
+Luiz Gonzaga e Humberto Teixeira  
+Watch on [YouTube](https://www.youtube.com/watch?v=cWiJL0_yj9c ).   
+
+Quando oiei a terra ardendo  
+Qual fogueira de São João  
+Eu preguntei a Deus do céu, ai  
+Por que tamanha judiação  
+Eu preguntei a Deus do céu, ai  
+Por que tamanha judiação
+
+Que braseiro, que fornaia  
+Nem um pé de prantação  
+Por farta d'água perdi meu gado  
+Morreu de sede meu alazão
+
+Por farta d'água perdi meu gado  
+Morreu de sede meu alazão
+
+Inté mesmo a asa branca  
+Bateu asas do sertão  
+Intonce eu disse, adeus Rosinha  
+Guarda contigo meu coração  
+Intonce eu disse, adeus Rosinha  
+Guarda contigo meu coração
+
+Hoje longe, muitas légua  
+Numa triste solidão  
+Espero a chuva cair de novo  
+Pra mim vortar pro meu sertão  
+Espero a chuva cair de novo  
+Pra mim voltar pro meu sertão
+
+Quando o verde dos teus óio  
+Se espaiar na prantação  
+Eu te asseguro não chore não, viu  
+Que eu vortarei, viu  
+Meu coração  
+Eu te asseguro não chore não, viu  
+Que eu vortarei, viu  
+Meu coração
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A Volta da Asa Branca (1950)  
+Luiz Gonzaga e Zé Dantas  
+Watch on [YouTube](https://www.youtube.com/watch?v=whKGCQiD7iY).
+
+Já faz três noites  
+Que pro norte relampeia  
+A asa branca  
+Ouvindo o ronco do trovão  
+Já bateu asas  
+E vortou pro meu sertão  
+Ai, ai eu vou me embora  
+Vou cuidar da prantação
+
+A seca fez eu desertar da minha terra  
+Mas felizmente Deus agora se alembrou  
+De mandar chuva  
+Pr'esse sertão sofredor  
+Sertão das muié séria  
+Dos homes trabaiador
+
+Rios correndo  
+As cachoeira tão zoando  
+Terra moiada  
+Mato verde, que riqueza  
+E a asa branca  
+Tarde canta, que beleza  
+Ai, ai, o povo alegre  
+Mais alegre a natureza
+
+Sentindo a chuva  
+Eu me arrescordo de Rosinha  
+A linda flor  
+Do meu sertão pernambucano  
+E se a safra  
+Não atrapaiá meus pranos  
+Que que há, o seu vigário  
+Vou casar no fim do ano.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Preguntas de Interpretação
 --------------------------

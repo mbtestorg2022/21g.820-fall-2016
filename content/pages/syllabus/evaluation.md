@@ -8,12 +8,67 @@ uid: a4215a5f-1723-eca5-60cf-afdf688c01e5
 
 Grading is based on frequent relatively small evaluations rather than on one or two major exams.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 3 Quizzes | 20% |
-|  {{< br >}}{{< br >}} 3 Essays, including revision {{< br >}}{{< br >}} Essay #1: 10% {{< br >}}{{< br >}} Essay #2: 15% {{< br >}}{{< br >}} Essay #3: 20% {{< br >}}{{< br >}}  | 45% |
-| Oral Presentation & student-led discussion | 20% |
-| Attendance and class participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3 Essays, including revision
+
+Essay #1: 10%
+
+Essay #2: 15%
+
+Essay #3: 20%
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation & student-led discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  ### Class Preparation, Attendance, and Participation
     
@@ -52,8 +107,69 @@ As students master the main structures, the quality of both their written work a
 Grading Scale
 -------------
 
-| A | B | C | D/F |
-| --- | --- | --- | --- |
-| A+ (98–100) | B+ (86–89.9) | C+ (76–79.9) | D+ (66–69.9) |
-| A (94–97.9) | B (84–85.9) | C (74–75.9) | D (63–65.9) |
-| A- (90–93.9) | B- (80–83.9) | C- (70–73.9) | F (62 and below)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+A
+{{< thclose >}}
+{{< thopen >}}
+B
+{{< thclose >}}
+{{< thopen >}}
+C
+{{< thclose >}}
+{{< thopen >}}
+D/F
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A+ (98–100)
+{{< tdclose >}}
+{{< tdopen >}}
+B+ (86–89.9)
+{{< tdclose >}}
+{{< tdopen >}}
+C+ (76–79.9)
+{{< tdclose >}}
+{{< tdopen >}}
+D+ (66–69.9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A (94–97.9)
+{{< tdclose >}}
+{{< tdopen >}}
+B (84–85.9)
+{{< tdclose >}}
+{{< tdopen >}}
+C (74–75.9)
+{{< tdclose >}}
+{{< tdopen >}}
+D (63–65.9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A- (90–93.9)
+{{< tdclose >}}
+{{< tdopen >}}
+B- (80–83.9)
+{{< tdclose >}}
+{{< tdopen >}}
+C- (70–73.9)
+{{< tdclose >}}
+{{< tdopen >}}
+F (62 and below)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

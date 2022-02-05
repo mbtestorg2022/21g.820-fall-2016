@@ -71,4 +71,32 @@ Maracatu...
 3.  Quais são os estereótipos relacionados com o habitante desta região?
 4.  O compositor diz que falta muita coisa no Brasil. Explique os exemplos que ele dá nas estrofes abaixo.
 
-| Falta o cristão  {{< br >}}Aprender com São Francisco  {{< br >}}Falta tratar  {{< br >}}O nordeste como o sul  {{< br >}}Falta outra vez  {{< br >}}Lampião, trovão, corisco  {{< br >}}Falta feijão  {{< br >}}Ao invés de mandacaru | Falta a nação  {{< br >}}Acender seu candeeiro  {{< br >}}Faltam chegar  {{< br >}}Mais Gonzagas lá de Exú  {{< br >}}Falta o Brasil  {{< br >}}De Jackson do Pandeiro  {{< br >}}Maculêlê, Carimbó  {{< br >}}Maracatu...
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Falta o cristão  
+Aprender com São Francisco  
+Falta tratar  
+O nordeste como o sul  
+Falta outra vez  
+Lampião, trovão, corisco  
+Falta feijão  
+Ao invés de mandacaru
+{{< tdclose >}}
+{{< tdopen >}}
+Falta a nação  
+Acender seu candeeiro  
+Faltam chegar  
+Mais Gonzagas lá de Exú  
+Falta o Brasil  
+De Jackson do Pandeiro  
+Maculêlê, Carimbó  
+Maracatu...
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

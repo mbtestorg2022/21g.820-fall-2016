@@ -39,7 +39,47 @@ Em que estilo musical você classificaria as canções abaixo? Justifique.
     Watch on [YouTube](https://www.youtube.com/watch?v=MXcSsGV7DF8).
     
 
-|  {{< br >}}{{< br >}} Esta mulher  {{< br >}}Há muito tempo me provoca  {{< br >}}Dá nela! Dá nela! {{< br >}}{{< br >}} É perigosa  {{< br >}}Fala mais que pata choca  {{< br >}}Dá nela! Dá nela! {{< br >}}{{< br >}} Fala, língua de trapo  {{< br >}}Pois da tua boca {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Eu não escapo {{< br >}}{{< br >}} Agora deu para falar abertamente  {{< br >}}Dá nela! Dá nela! {{< br >}}{{< br >}} É intrigante  {{< br >}}Tem veneno e mata a gent  {{< br >}}Dá nela! Dá nela!  {{< br >}}   {{< br >}}  {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Esta mulher  
+Há muito tempo me provoca  
+Dá nela! Dá nela!
+
+É perigosa  
+Fala mais que pata choca  
+Dá nela! Dá nela!
+
+Fala, língua de trapo  
+Pois da tua boca
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Eu não escapo
+
+Agora deu para falar abertamente  
+Dá nela! Dá nela!
+
+É intrigante  
+Tem veneno e mata a gent  
+Dá nela! Dá nela!  
+   
+ 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Noel Rosa, chamado o “Poeta da Vila”, foi um dos maiores representantes da primeira fase do samba. Leia a música abaixo, de sua autoria, e responda as perguntas que seguem:
     
