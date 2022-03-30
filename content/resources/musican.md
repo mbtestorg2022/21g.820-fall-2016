@@ -8,6 +8,7 @@ image_metadata:
     2,000 songs.
   credit: '26 Premio da Musica Brasileira on flickr. CC: BY.'
   image-alt: 'An older man dressed holds an award on stage. '
+parent_uid: 475970bf-7a88-f2fe-4f05-686c40d72782
 resourcetype: Image
 title: Paulo Cesar Pinheiro
 uid: faa56826-6c96-ab19-cbd7-68a446f23e6a
